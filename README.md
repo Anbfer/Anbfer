@@ -1,9 +1,15 @@
+
 [_English Version_](#Welcome-Dev)
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img src="https://github.com/Anbfer/Anbfer/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <a target="_blank" href="https://www.linkedin.com/in/angelo-baracho-abf/" alt="Perfil do LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a target="_blank" href="https://codepen.io/angelo-ferreira"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 <a target="_blank" href="https://cursos.alura.com.br/user/ferreira-angelo98" alt="Perfil da Alura"><img src="https://cuponomia-a.akamaihd.net/img/stores/original/alura-637582521816079946.png" width="45" height="30"/></a>
+
 -------------------------------------------------------------------------------------------------
 # Bem-vindo Dev
  _*Eu sou o Ângelo, tenho 27 anos, sou de São Paulo - SP, apaixonado por jogos, Star Wars e programação.*_
